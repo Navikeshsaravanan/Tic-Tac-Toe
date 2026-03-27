@@ -125,4 +125,4 @@ If all 9 cells are filled and neither player has won, the game declares a **Draw
 ## 👨‍💻 Author
 
 Made with ❤️ as a 2nd Semester Java Project  
-**[Your Name]** — [Your GitHub Profile Link]
+**[NavikeshSaravanan]** 
